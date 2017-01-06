@@ -16,4 +16,7 @@
             resultType="dao.entity.User">
         select * from users where id=#{id}
     </select>
+
+
+
 </mapper>
